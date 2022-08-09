@@ -6,3 +6,8 @@ Probando la actualizacion de un archivo
 Modificando para dejar un mensaje al hacer el commit
 
 aa mensaje
+
+Ahora mandare mi ultimo mensaje:
+
+Change the world , mi finala message , Goodbye
+Im the stomr that was aproaching xD
